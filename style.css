@@ -55,8 +55,8 @@ body{
 			}
 			#nav ul li a:active{ background-color: #ff8f00; }
 
-#content{
-	margin: 30px 0;
+.content{
+	margin: 50px 0;
 	background: white;
 	padding: 20px;
 	clear: both;
@@ -75,3 +75,7 @@ body{
 /* multiple styles seperated by a , */
 #content,
 ul li a{ box-shadow: 0px 1px 1px #999; }
+
+.corgi {
+	 width: 300px;
+}
