@@ -79,3 +79,6 @@ ul li a{ box-shadow: 0px 1px 1px #999; }
 .corgi {
 	 width: 300px;
 }
+.button {
+	background-color: red;
+}
